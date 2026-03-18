@@ -1,4 +1,4 @@
-# 👋 ola
+👋 ola
 
         .        *        .
    *        .        .        *
@@ -10,5 +10,5 @@
    .        *        .        *
         .        *        .
 
-## 🚀 Sobre mí
+🚀 Sobre mí
 Soy desarrollador full stack junior.
