@@ -1,12 +1,9 @@
-⠀⠀⠀⠀    ⣀⣀⣀⣀⣀⡀
-⠀⠀⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⣷⡄
-⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⠀⠀⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⠀⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⠏
-⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣿⡿⠟⠁
-          ✦           ✧
-        ✧         🌌         ✦
-    ✦      ✧           ✦        ✧
+      .        *        .
+   *        .        .        *
 
-         Maximiliano Lara  
-   ⚡ Estudiante UCA • Creator • Builder ⚡
+            Maximiliano Lara
+
+      code. build. repeat.
+
+   .        *        .        *
+        .        *        .
