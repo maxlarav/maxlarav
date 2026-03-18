@@ -1,4 +1,6 @@
-      .        *        .
+# 👋 ola
+
+        .        *        .
    *        .        .        *
 
             Maximiliano Lara
@@ -7,3 +9,6 @@
 
    .        *        .        *
         .        *        .
+
+## 🚀 Sobre mí
+Soy desarrollador full stack junior.
